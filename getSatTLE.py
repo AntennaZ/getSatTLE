@@ -2,7 +2,7 @@
 """
 Created on Wed Dec 29 11:35:13 2021
 
-@author: M0 Yu
+@author: AntennaZ
 """
 
 import requests
